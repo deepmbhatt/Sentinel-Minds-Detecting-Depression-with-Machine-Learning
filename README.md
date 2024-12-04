@@ -79,7 +79,6 @@ This project was powered by the following libraries:
 To empower researchers and mental health professionals with tools for early detection of depression, enabling timely interventions to improve mental health outcomes.  
 
 ---
----
 
 ## 🔧 Getting Started  
 
